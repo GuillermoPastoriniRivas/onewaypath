@@ -20,16 +20,13 @@ html {
 body {
 	text-align: center;
 	background-color: #dae1e7;
-	padding:20%;
-	padding-top:10%;
-	margin:20px;
 }
 
 h1 {
 	font-family: 'oklahoma-regular';
 	text-transform: uppercase;
 	color: #ca972b;
-   	font-size: 62px;
+   	font-size: 1rem;
 	font-weight: normal;
 	margin:10px;
 	margin-bottom:1px;
